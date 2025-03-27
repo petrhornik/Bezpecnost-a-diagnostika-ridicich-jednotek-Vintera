@@ -13,10 +13,14 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 
     Safety = ochrana před úrazem/úmrtím člověka či poškození stroje
         
-        - zákony, pravidla, zákl. pojmy
+        - zákony, pravidla, zákl. pojmy <- musíme dodržet
         - Proškolení, poukázání na základní pojmy a pravidla, zákony
         - řešíme hlavně bezpečnost lidí
-        - např.: v autě airbag, senzory, kamery <- veškerá výbava související s prevencí nárazu/nehody
+        - např.: v autě airbag, senzory, kamery <- veškerá výbava související s prevencí nárazu/nehody, 
+                izolované nástroje při práci s elektronikou, robot má vyznačený urč. prostor 
+                ve kterém se pochybuje atd.
+        - dodržení safety má větší prioritu než jakýkoli stroj/výrobek bez ohledu na cenu
+        
 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
 -   A na příkladech vysvětlí řešení některý z častých problémů
