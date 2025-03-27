@@ -9,11 +9,14 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 ## Cíl
 -   Studenti rozliší pojmy Safety a Security
 
--   Maturitní otázky
 1)Rozdíl mezi safety a security
 
-    Safety = ochrana před úrazem/úmrtím člověka
-        -Proškolení, poukázání na základní pojmy a pravidla
+    Safety = ochrana před úrazem/úmrtím člověka či poškození stroje
+        
+        - zákony, pravidla, zákl. pojmy
+        - Proškolení, poukázání na základní pojmy a pravidla, zákony
+        - řešíme hlavně bezpečnost lidí
+        - např.: v autě airbag, senzory, kamery <- veškerá výbava související s prevencí nárazu/nehody
 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
 -   A na příkladech vysvětlí řešení některý z častých problémů
