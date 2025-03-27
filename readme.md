@@ -11,7 +11,7 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 
 1)Rozdíl mezi safety a security
 
-    Safety = ochrana před úrazem/úmrtím člověka či poškození stroje
+    Safety = soubor prostředků, nařízení, zákonů, podmínek, které mají ochránit před/zabránit úrazem/úmrtím člověka či poškození stroje
         
         - zákony, pravidla, zákl. pojmy <- musíme dodržet
         - Proškolení, poukázání na základní pojmy a pravidla, zákony
@@ -20,6 +20,9 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
                 izolované nástroje při práci s elektronikou, robot má vyznačený urč. prostor 
                 ve kterém se pochybuje atd.
         - dodržení safety má větší prioritu než jakýkoli stroj/výrobek bez ohledu na cenu
+        -u PLCček exustují tzv. safety plc(žluté krabičky), nebo nějaké karty
+
+    Security
         
 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
