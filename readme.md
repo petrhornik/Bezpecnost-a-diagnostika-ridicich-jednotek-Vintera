@@ -23,6 +23,8 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
         -u PLCček exustují tzv. safety plc(žluté krabičky), nebo nějaké karty
 
     Security
+
+        - 
         
 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
