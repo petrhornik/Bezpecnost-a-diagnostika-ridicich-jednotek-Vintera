@@ -16,15 +16,21 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
         - zákony, pravidla, zákl. pojmy <- musíme dodržet
         - Proškolení, poukázání na základní pojmy a pravidla, zákony
         - řešíme hlavně bezpečnost lidí
-        - např.: v autě airbag, senzory, kamery <- veškerá výbava související s prevencí nárazu/nehody, 
+        - např.: v autě airbag, senzory, kamery, ABS <- veškerá výbava související s prevencí nárazu/nehody, 
                 izolované nástroje při práci s elektronikou, robot má vyznačený urč. prostor 
                 ve kterém se pochybuje atd.
         - dodržení safety má větší prioritu než jakýkoli stroj/výrobek bez ohledu na cenu
         -u PLCček exustují tzv. safety plc(žluté krabičky), nebo nějaké karty
 
-    Security
+    Security = snaha zabránit přístupu nežádaných osob do systému/zařízení a jakékoli manipulace s ním
 
-        - 
+        - např.: zabránit manipulaci s IP (síťovými kamerami) - přístup k tomu co kamera vídí, její zastavení, manipulace se záznamem
+        - stalking přes nezabezpečené kamery, policie nesmí sledovat lidi přes kabery BEZ soudního příkazu
+        - hybridní válka = 
+        - sledování pohybu lidí pomocí čídel vlhkosti, CO2, teploty - může sloužit k vydírání (musíme předejít) - např. v politice
+        - penetrační test = zkouší způsoby jak/pokud jde se dostat do sítě firmy, která si tento test objedná 
+        - jak zabezpečit zařízení:      1) zamezit/zabezpečit přístup - heslo, 2FA, biometrika, přistupovat mohou jen konkrétní zař., dáz zař. do jiné sítě, social engineering
+                                        2)
         
 
 -   Doplní a především propojí si dosavadní znalosti z této problematiky
