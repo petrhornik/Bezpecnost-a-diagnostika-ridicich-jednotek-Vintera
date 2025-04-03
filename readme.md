@@ -27,7 +27,7 @@ Bezpečnost a diagnostika řídících jednotek
 3. Příklady HW a SW diagnostických prostředků
 4. Ukázka základní diagnostiky vybraných řídících jednotek
 
-    Safety = soubor prostředků, nařízení, zákonů, podmínek, které mají ochránit před/zabránit úrazem/úmrtím člověka či poškození stroje
+        Safety = soubor prostředků, nařízení, zákonů, podmínek, které mají ochránit před/zabránit úrazem/úmrtím člověka či poškození stroje
         
         - zákony, pravidla, zákl. pojmy <- musíme dodržet
         - Proškolení, poukázání na základní pojmy a pravidla, zákony
@@ -38,7 +38,7 @@ Bezpečnost a diagnostika řídících jednotek
         - dodržení safety má větší prioritu než jakýkoli stroj/výrobek bez ohledu na cenu
         -u PLCček exustují tzv. safety plc(žluté krabičky), nebo nějaké karty
 
-    Security = snaha zabránit přístupu nežádaných osob do systému/zařízení a jakékoli manipulace s ním
+        Security = snaha zabránit přístupu nežádaných osob do systému/zařízení a jakékoli manipulace s ním
 
         - např.: zabránit manipulaci s IP (síťovými kamerami) - přístup k tomu co kamera vídí, její zastavení, manipulace se záznamem
         - stalking přes nezabezpečené kamery, policie nesmí sledovat lidi přes kabery BEZ soudního příkazu
