@@ -11,6 +11,22 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
 
 1)Rozdíl mezi safety a security
 
+-   Doplní a především propojí si dosavadní znalosti z této problematiky
+-   A na příkladech vysvětlí řešení některý z častých problémů
+-   Dále popíší příklady diagnostických prostředků z oblasti HW
+-   A na konkrétní řídící jednotce popíší základní diagnostiku
+-   Vysvětlí, jak se provádí u této řídící jednotky základní diagnostika SW
+-   A uvedou příklady nejběžnější nástroje pro diagnostiku SW
+
+## Ověření cílů
+
+Bezpečnost a diagnostika řídících jednotek
+
+1. Bezpečnost (safety) řídících systémů
+2. Zabezpečení (security) řídících systémů
+3. Příklady HW a SW diagnostických prostředků
+4. Ukázka základní diagnostiky vybraných řídících jednotek
+
     Safety = soubor prostředků, nařízení, zákonů, podmínek, které mají ochránit před/zabránit úrazem/úmrtím člověka či poškození stroje
         
         - zákony, pravidla, zákl. pojmy <- musíme dodržet
@@ -32,22 +48,6 @@ $${\color{#FFA500}E14 \space \color{Gold}S25 \space \color{#4682B4}A10 }$$
         - jak zabezpečit zařízení:      1) zamezit/zabezpečit přístup - heslo, 2FA, biometrika, přistupovat mohou jen konkrétní zař., dáz zař. do jiné sítě, social engineering
                                         2)
         
-
--   Doplní a především propojí si dosavadní znalosti z této problematiky
--   A na příkladech vysvětlí řešení některý z častých problémů
--   Dále popíší příklady diagnostických prostředků z oblasti HW
--   A na konkrétní řídící jednotce popíší základní diagnostiku
--   Vysvětlí, jak se provádí u této řídící jednotky základní diagnostika SW
--   A uvedou příklady nejběžnější nástroje pro diagnostiku SW
-
-## Ověření cílů
-
-Bezpečnost a diagnostika řídících jednotek
-
-1. Bezpečnost (safety) řídících systémů
-2. Zabezpečení (security) řídících systémů
-3. Příklady HW a SW diagnostických prostředků
-4. Ukázka základní diagnostiky vybraných řídících jednotek
 
 ## Úlohy
 
